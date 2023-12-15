@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fj13BqgPYLeM/v5+wBNwThoDQ2vrpbTGhAMQx3nDqyQ=",
+  "Source": "virtual-pet-care-api",
+  "BasePath": "_content/virtual-pet-care-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
